@@ -1,0 +1,6 @@
+{
+  "name": "Tariq Sweets and Bakers",
+  "description": "Professional online ordering web application for Tariq Sweets and Bakers featuring fresh artisanal cakes, traditional Pakistani mithai, pastries, biscuits, savory snacks, and online delivery with Supabase database integration and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
